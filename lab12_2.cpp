@@ -46,5 +46,4 @@ void showImage(const bool image[][M]){
     }
     cout << "\n";
     for(i=0;i<M+2;i++) cout  << "-";
-
 }

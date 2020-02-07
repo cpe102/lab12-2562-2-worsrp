@@ -13,7 +13,7 @@ int main()
     cout << "Average = " << B[0];
     cout << "\nS.D. = " << B[1];
     cout << "\nMax = " << B[2];
-    cout << "\nMin = " << B[3] << endl;
+    cout << "\nMin = " << B[3];
     return 0;
 }
 
